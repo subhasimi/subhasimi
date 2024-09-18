@@ -21,7 +21,7 @@
 
 ##  Connect with me
 <!----[![Portfolio](https://img.shields.io/badge/-Porfolio-000?style=flat&logo=🔭&logoColor=white)](https://soumyaranjannayak.github.io/)--->
-[![Linkedin](https://www.linkedin.com/in/subhasmita-sahoo-625a76277/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/subhasmita-sahoo-625a76277/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:subhasmita.3733@gmail.com)
 
 
